@@ -1,0 +1,39 @@
+Tentu, berikut adalah beberapa contoh "codingan gombal":
+
+1. ```python
+   def kamu():
+       return "API (Aku Pilih Kamu)"
+   
+   def aku():
+       return "Array Kamu dan Aku"
+   
+   print(kamu() + " adalah " + aku())
+   ```
+   Output: "API (Aku Pilih Kamu) adalah Array Kamu dan Aku"
+
+2. ```javascript
+   function kamu() {
+       return "for (every) i in my heart { if (i == you) { myHeart.beat() } }";
+   }
+   
+   function aku() {
+       return "typeof you === 'number' ? 'you are my 404' : 'you are my infinity'";
+   }
+   
+   console.log(kamu() + " and " + aku());
+   ```
+   Output: "for (every) i in my heart { if (i == you) { myHeart.beat() } } and typeof you === 'number' ? 'you are my 404' : 'you are my infinity'"
+
+3. ```java
+   public class Gombal {
+       public static void main(String[] args) {
+           String kamu = "int i = 1; i <= myHeart.size(); i++";
+           String aku = "if (you == i) myHeart.beat();";
+           
+           System.out.println(kamu + " { " + aku + " }");
+       }
+   }
+   ```
+   Output: "int i = 1; i <= myHeart.size(); i++ { if (you == i) myHeart.beat(); }"
+
+Semoga ini bisa membuatmu tersenyum!		
